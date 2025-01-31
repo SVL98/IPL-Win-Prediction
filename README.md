@@ -26,10 +26,12 @@ Cricket enthusiasts, data scientists, and developers unite! The IPL Win Probabil
     git clone https://github.com/pxxthik/IPL-win-probability-predictor.git
     cd ipl-win-probability-predictor
     ```
-2. Then run requirements 
-   pip install -r requirements.txt
-3. Then using Stramlit will we see in web for that run this command
-    streamlit run app.py
+2. Then run requirements
+   
+   ```pip install -r requirements.txt
+   ```
+4. Then using Stramlit will we see in web for that run this command
+    ```streamlit run app.py ```
 
 
 ## Acknowledgements
