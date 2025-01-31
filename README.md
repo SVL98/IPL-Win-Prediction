@@ -1,7 +1,7 @@
 # IPL-win-probability-predictor
 This project is for educational and entertainment purposes only. The predictions are based on historical data and machine learning algorithms, and actual match outcomes may vary.
 
-![IPL Win Probability Predictor Logo](https://i.ytimg.com/vi/Ok_zkfWC0gI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8U3hJtojeKVmbU1NDQoqh6esjRA)
+![IPL Win Probability Predictor Logo]([https://i.ytimg.com/vi/Ok_zkfWC0gI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8U3hJtojeKVmbU1NDQoqh6esjRA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMxTYmHeSfOBxAxgwDxHQF2aKR_8XhFZX9w&s)
 
 Welcome to the IPL Win Probability Predictor project! This repository hosts a comprehensive system that predicts the win probability of Indian Premier League (IPL) cricket matches using advanced machine learning algorithms. Stay ahead of the game and explore the exciting world of predictive analytics for your favorite cricket teams.
 
