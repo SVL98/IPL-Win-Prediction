@@ -28,8 +28,8 @@ Cricket enthusiasts, data scientists, and developers unite! The IPL Win Probabil
     ```
 2. Then run requirements
 
-   ```pip install -r requirements.txt
-    ```
+   pip install -r requirements.txt
+
   
 3. Then using Streamlit will we see in web for that run this command
   ```streamlit run app.py
